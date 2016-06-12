@@ -1,0 +1,31 @@
+1. What is menu? Write its importance.
+
+Ans: Menu is the additional option which is displayed when clicked on it and is
+complete a task or allow the user to interact with the software easly.
+
+The importance of the menus are:
+1. They make navigation through the software easy.
+2. They organise a software in a better format.
+3. Makes user friednly interaction.
+
+2. What is options menu? When it is activated?
+
+Ans: Options menu is primary collection of menu items. They are like the main menu
+in a UI.
+
+This menu is activated by clicking on the menu button represented by three dots
+in the latest version and were represented in the form of button in the earlier 
+versions of Android.
+
+3. What is Context menu? When it is activated? 
+
+Ans: Context menu in android is simillar to the right click in the computer this menu is
+used only for certain context so that the menu is custom made for that perticular context 
+this can also be compared with popup menu in computers. These menus are created at run time.
+
+As there is no right click in Android it is activated by a long tap or a long click.
+
+
+4.What is the alternative of ActionBarActivity as its deprecated?
+
+Ans: The alternative for the Action Bar Activity is ToolBar.
